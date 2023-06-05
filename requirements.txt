@@ -33,3 +33,4 @@ urllib3
 webencodings
 Werkzeug
 yfinance
+gunicorn
